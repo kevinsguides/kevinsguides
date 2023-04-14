@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinsguides - Kevin Olson
 - 👀 I’m interested in sharing knowledge with the world!
-- 🌱 I’m currently learning more and more about Joomla, Java, and Web Development Technologies
+- 🌱 I’m currently learning more and more about Joomla, JavaScript, Oracle's SQL, Java, PHP and other web dev technologies.
 - 💞️ I’d love to collaborate on Joomla projects & things related to E-Learning
 - 📫 Visit my website at kevinsguides.com
 
